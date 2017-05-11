@@ -1,0 +1,5 @@
+framework: net46
+generate_load_scripts: true
+source https://nuget.org/api/v2
+
+nuget WindowsAzure.Storage
